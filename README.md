@@ -1,2 +1,3 @@
-# El-librerito-de-Katu
+# El-librerito-de-Katu.
+
 Objetivo: fomentar la lectura.
